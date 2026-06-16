@@ -1,0 +1,4 @@
+interface:
+  display_name: "Better Word"
+  short_description: "AI-assisted LaTeX report workflow"
+  default_prompt: "Use $better-word to convert my school Word report template into a reusable LaTeX template."
